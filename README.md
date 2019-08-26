@@ -1,2 +1,2 @@
 # rmm_plugin.dll
-Randomizer Dll
+Randomizer Dll by Hell storm
